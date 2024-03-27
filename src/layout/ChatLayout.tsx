@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { Elements } from '@stripe/react-stripe-js';
-import { loadStripe } from '@stripe/stripe-js';
+import { Elements } from "@stripe/react-stripe-js";
+import { loadStripe } from "@stripe/stripe-js";
 import { useForm } from "react-hook-form";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -18,13 +18,10 @@ import { Textarea } from "@/components/ui/textarea";
 import { openHistory } from "@/lib/context";
 import { useAtom } from "jotai";
 //Toaster
-import { toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
-import { ToastContainer } from 'react-toastify';
-import { useLocation } from "react-router-dom";
+import { toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import { ToastContainer } from "react-toastify";
 import PaymentForm from "./PaymentForm";
-
-const stripePromise = loadStripe('pk_test_51K1kcOSGCN1i1QR7CWMBr6CcMSuzI208ILwbFsMPf3vBy6NFIoDo8BcTx4zvwAD36lEowdGEZbvNGEwetfRF05Qk0091MVVp0F');
 function ChatLayout({
   children,
   chatType = "basic",
@@ -34,24 +31,18 @@ function ChatLayout({
 }: {
   children: React.ReactNode;
   chatType: "pro" | "basic" | "advance";
-  chapter: string,
-  topic: string,
-  subChapter: string
-
-
+  chapter: string;
+  topic: string;
+  subChapter: string;
 }) {
-  const options = {
-    // passing the client secret obtained from the server
-    clientSecret: 'sk_test_51K1kcOSGCN1i1QR7nK9UZ5u7acyOFRUxddDZj3VgzutQ6IRnav4A8QvBvG98pDU02gEoxJAw5Njecnwjeu5kED5X00XYEKjo4t',
-  };
+  const [stripePromise, setStripePromise] = useState(null);
+  const [clientSecret, setClientSecret] = useState("");
   // Custom hook for handling input changes
   const { inputValues, handleInputChange, preventPaste } = useInputChange();
 
   // State from jotai atom to determine if history is open
   const [openHistoryValue] = useAtom(openHistory);
   const subscription = localStorage.getItem("subscription");
-  const location = useLocation();
-  console.log(location?.pathname, "urlParams")
   const storedChatBoxHistory =
     JSON.parse(localStorage.getItem("chatBoxHistory")) ?? [];
   const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
@@ -85,7 +76,7 @@ function ChatLayout({
         question: question,
         chapter: chapter,
         subChapter: subChapter,
-        topic: topic
+        topic: topic,
       }),
       redirect: "follow",
     })
@@ -96,7 +87,7 @@ function ChatLayout({
       })
       .then((result) => {
         console.log(result, "result");
-        toast.success("Data sent successfully to backend")
+        toast.success("Data sent successfully to backend");
         setChatBoxHistory((prevState) => [
           ...prevState,
           {
@@ -120,29 +111,46 @@ function ChatLayout({
     window.dispatchEvent(event);
   }, [chatBoxHistory]);
 
-
   const onSubmit = handleSubmit((data) => {
     sendMessage(data);
     // handleGenerate(); // Call handleGenerate when form is submitted
   });
-  const subscriptionObj = {
-    "basic": "/chat",
-    "advance": "/chat/advance",
-    "pro": "/chat/pro"
-  }
-  const isSubscribed = subscriptionObj[subscription] === location.pathname
+
+  useEffect(() => {
+    fetch("http://localhost:3001/config").then(async (r) => {
+      const { publishableKey } = await r.json();
+      setStripePromise(loadStripe(publishableKey));
+    });
+  }, []);
+  useEffect(() => {
+    fetch("http://localhost:3001/create-payment-intent", {
+      method: "POST",
+      body: JSON.stringify({ curr: "USD", amount: 29 }),
+    }).then(async (result) => {
+      const resData = await result.json();
+      setClientSecret(resData?.clientSecret);
+    });
+  }, []);
+
+  const isSubscribed = subscription === chatType;
   return (
     <>
-      {!isSubscribed &&
-        <Elements stripe={stripePromise} options={options}>
-          <PaymentForm />
-        </Elements>}
+      {!isSubscribed && clientSecret && (
+        <div className="modal" id="default-modal">
+          <Elements stripe={stripePromise} options={{ clientSecret }}>
+            <PaymentForm />
+          </Elements>
+        </div>
+      )}
       <div className={`p-3 ${!isSubscribed ? `blur-sm` : ``}`}>
         <ToastContainer />
         <div className="flex gap-3 sm:flex-row flex-col">
           {/* History component */}
           <div className={`${openHistoryValue ? "w-full sm:w-4/12" : "w-fit"}`}>
-            <History chatBoxHistory={chatBoxHistory} isDouble={chatType !== "basic"} />
+            <History
+              chatBoxHistory={chatBoxHistory}
+              isDouble={chatType !== "basic"}
+            />
           </div>
           {/* Main chat content */}
           <div className="w-8/12 card">
