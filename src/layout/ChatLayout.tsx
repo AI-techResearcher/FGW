@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { BiSolidSend } from "react-icons/bi";
 import { MdMicNone } from "react-icons/md";
+import axios from "axios";
 import History from "@/components/chat/subcomp/history";
 import {
   Popover,
@@ -117,18 +118,15 @@ function ChatLayout({
   });
 
   useEffect(() => {
-    fetch("http://localhost:3001/config").then(async (r) => {
+    fetch(`http://localhost:3001/config`).then(async (r) => {
       const { publishableKey } = await r.json();
       setStripePromise(loadStripe(publishableKey));
     });
   }, []);
   useEffect(() => {
-    fetch("http://localhost:3001/create-payment-intent", {
-      method: "POST",
-      body: JSON.stringify({ curr: "USD", amount: 29 }),
-    }).then(async (result) => {
-      const resData = await result.json();
-      setClientSecret(resData?.clientSecret);
+    axios.post("http://localhost:3001/create-payment-intent", { curr: "usd", amount: chatType === "basic" ? 29.99 : (chatType === "advance" ? 39.99 : 74.99) })
+    .then((result) => {
+      setClientSecret(result?.data?.clientSecret);
     });
   }, []);
 
@@ -136,11 +134,9 @@ function ChatLayout({
   return (
     <>
       {!isSubscribed && clientSecret && (
-        <div className="modal" id="default-modal">
           <Elements stripe={stripePromise} options={{ clientSecret }}>
-            <PaymentForm />
+            <PaymentForm chatType={chatType}/>
           </Elements>
-        </div>
       )}
       <div className={`p-3 ${!isSubscribed ? `blur-sm` : ``}`}>
         <ToastContainer />
