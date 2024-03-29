@@ -4,10 +4,11 @@ import {
   useElements,
   PaymentElement,
 } from "@stripe/react-stripe-js";
+import { toast } from "react-toastify";
 
 const PaymentForm = ({ chatType }) => {
   const [isProcessing, setIsProcessing] = useState(false);
-
+  const [message, setMessage] = useState(null);
   const stripe = useStripe();
   const elements = useElements();
   const handleSubmit = async (event) => {
@@ -21,20 +22,27 @@ const PaymentForm = ({ chatType }) => {
       return;
     }
     setIsProcessing(true);
-    const { error, ...rest } = await stripe.confirmPayment({
+    const { error, paymentIntent } = await stripe.confirmPayment({
       elements,
       confirmParams: {
         // Make sure to change this to your payment completion page
         return_url: `${window.location.href}`,
       },
+      redirect: "if_required"
     });
-
-    if (error.type === "card_error" || error.type === "validation_error") {
-      console.log(error.message);
+    if (error) {
+      setMessage(error.message);
+    } else if (paymentIntent && paymentIntent.status === "succeeded") {
+      localStorage.setItem("subscription", chatType);
+      setIsProcessing(false);
+      window.location.reload();
+      setTimeout(() => {
+        toast.success("Congratulations! You are subscribed now");
+      }, 1000)
     } else {
-      console.log("An unexpected error occured.", error.type, rest);
+      toast.error("Payment failed");
+      setIsProcessing(false);
     }
-    localStorage.setItem("subscription", chatType);
     setIsProcessing(false);
   };
   return (
@@ -50,6 +58,7 @@ const PaymentForm = ({ chatType }) => {
             {isProcessing ? "Processing ... " : "Pay now"}
           </span>
         </button>
+        {message && <div id="payment-message">{message}</div>}
       </form>
     </div>
   );

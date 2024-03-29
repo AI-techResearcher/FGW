@@ -112,7 +112,8 @@ function ChatLayout({
     window.dispatchEvent(event);
   }, [chatBoxHistory]);
 
-  const onSubmit = handleSubmit((data) => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const onSubmit = handleSubmit((data: any) => {
     sendMessage(data);
     // handleGenerate(); // Call handleGenerate when form is submitted
   });
@@ -123,14 +124,18 @@ function ChatLayout({
       setStripePromise(loadStripe(publishableKey));
     });
   }, []);
+  const isSubscribed = subscription === chatType;
   useEffect(() => {
-    axios.post("http://localhost:3001/create-payment-intent", { curr: "usd", amount: chatType === "basic" ? 29.99 : (chatType === "advance" ? 39.99 : 74.99) })
-    .then((result) => {
-      setClientSecret(result?.data?.clientSecret);
-    });
+    if(!isSubscribed) {
+      axios
+      .post("http://localhost:3001/create-payment-intent", { curr: "usd", amount: chatType === "basic" ? 29.99 : (chatType === "advance" ? 39.99 : 74.99) })
+      .then((result) => {
+        setClientSecret(result?.data?.clientSecret);
+      });
+
+    }
   }, []);
 
-  const isSubscribed = subscription === chatType;
   return (
     <>
       {!isSubscribed && clientSecret && (
