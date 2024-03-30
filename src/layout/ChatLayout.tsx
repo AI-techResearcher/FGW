@@ -119,7 +119,7 @@ function ChatLayout({
   });
 
   useEffect(() => {
-    fetch(`http://localhost:3001/config`).then(async (r) => {
+    fetch(`http://localhost:3002/config`).then(async (r) => {
       const { publishableKey } = await r.json();
       setStripePromise(loadStripe(publishableKey));
     });
@@ -128,7 +128,7 @@ function ChatLayout({
   useEffect(() => {
     if(!isSubscribed) {
       axios
-      .post("http://localhost:3001/create-payment-intent", { curr: "usd", amount: chatType === "basic" ? 29.99 : (chatType === "advance" ? 39.99 : 74.99) })
+      .post("http://localhost:3002/create-payment-intent", { curr: "usd", amount: chatType === "basic" ? 29.99 : (chatType === "advance" ? 39.99 : 74.99) })
       .then((result) => {
         setClientSecret(result?.data?.clientSecret);
       });
