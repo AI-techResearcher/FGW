@@ -143,7 +143,7 @@ function ChatLayout({
             <PaymentForm chatType={chatType}/>
           </Elements>
       )}
-      <div className={`p-3 ${!isSubscribed ? `blur-sm` : ``}`}>
+      <div className={`p-3 ${!isSubscribed ? `blur-sm pointer-events-none` : ``}`}>
         <ToastContainer />
         <div className="flex gap-3 sm:flex-row flex-col">
           {/* History component */}
