@@ -42,7 +42,7 @@ const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
   const [currentTab, setCurrentTab] = useState(tabEnum.chat);
 
   //my state
-  const [generatedContent, setGeneratedContent] = useState("");
+  const [, setGeneratedContent] = useState("");
   const [selectedTypeOfQuestions, setSelectedTypeOfQuestions] =
     useState<string>("");
   const [selectedMathematicsDifficulty, setSelectedMathematicsDifficulty] =
@@ -56,18 +56,18 @@ const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
     const [selectdifficulty , setSelectDifficulty] = useState<string>("")
     const [currentIndex, setCurrentIndex] = useState(0);
 
-    const commonFeatures = [
-      [
-        "Strict Adherence to the Learning Objectives outlined in Exam Study Material",
-        "No Mixing of Content between Different Exams",
-        "Dedicated Content and Question Sets for Each Exam",
-      ],
-      [
-        "non strich Adherence to the Learning Objectives outlined in Exam Study Material",
-        "No Mixing of Content between Different Exams",
-        "Data Content and Question Sets for Each Exam",
-      ],
-    ];
+    // const commonFeatures = [
+    //   [
+    //     "Strict Adherence to the Learning Objectives outlined in Exam Study Material",
+    //     "No Mixing of Content between Different Exams",
+    //     "Dedicated Content and Question Sets for Each Exam",
+    //   ],
+    //   [
+    //     "non strich Adherence to the Learning Objectives outlined in Exam Study Material",
+    //     "No Mixing of Content between Different Exams",
+    //     "Data Content and Question Sets for Each Exam",
+    //   ],
+    // ];
 
     const [firstFeaturesDisplayed, setFirstFeaturesDisplayed] = useState(false);
 

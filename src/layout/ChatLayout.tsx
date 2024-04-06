@@ -217,6 +217,7 @@ function ChatLayout({
                     </Button>
                     {/* Input field */}
                     <Input
+            
                       register={register}
                       name="question"
                       className="border-gray-400 bg-green-50/20"

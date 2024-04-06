@@ -11,7 +11,7 @@ import { ScrollArea } from '@/components/ui/scroll-area'
 // types for props Selector
 interface ISelector {
   title: string
-  options: (string | boolean)[]
+  options: (string | boolean | number)[]
   onValueChange: (value: string) => void
   defaultValue?: string
 }
