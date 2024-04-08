@@ -51,7 +51,7 @@ const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
     useState<string>("");
   const [selectedCalculator, setSelectedCalculator] = useState<string>("");
   const [selectedGenerationOfFlashcards, setSelectedGenerationOfFlashcards] =
-    useState<number>(0);
+    useState<string>("");
     const [result, setResults] = useState<string[][]>([]);
     const [selectdifficulty , setSelectDifficulty] = useState<string>("")
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -120,6 +120,7 @@ const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
 
     // Call the API to send the generated data to the backend
     sendGeneratedDataToBackend(data);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [
     chapter,
     subChapter,

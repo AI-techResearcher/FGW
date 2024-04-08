@@ -32,9 +32,9 @@ function ChatLayout({
 }: {
   children: React.ReactNode;
   chatType: "pro" | "basic" | "advance";
-  chapter: string;
-  topic: string;
-  subChapter: string;
+  chapter?: string;
+  topic?: string;
+  subChapter?: string;
 }) {
   const [stripePromise, setStripePromise] = useState(null);
   const [clientSecret, setClientSecret] = useState("");
@@ -52,7 +52,7 @@ function ChatLayout({
     register,
     handleSubmit,
     reset,
-    formState: { errors },
+    // formState: { errors },
   } = useForm();
 
   const sendMessage = ({ question }) => {
@@ -217,7 +217,6 @@ function ChatLayout({
                     </Button>
                     {/* Input field */}
                     <Input
-            
                       register={register}
                       name="question"
                       className="border-gray-400 bg-green-50/20"
