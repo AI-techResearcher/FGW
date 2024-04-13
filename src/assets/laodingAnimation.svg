@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="animFGW" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 2000 2000" style="white-space: pre;">
+    <style>
+@keyframes Null-1_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-1_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1_do { 0% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 9.025% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-2_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-2_do { 0% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 9.025% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-3_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-3_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-3_do { 0% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 9.025% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-4_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-4_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-4_do { 0% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 9.025% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-5_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-5_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-5_do { 0% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 9.025% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-6_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-6_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-6_do { 0% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 9.025% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-7_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-7_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-7_do { 0% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 9.025% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-8_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-8_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-8_do { 0% { stroke-dashoffset: 980px; } 5% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 14.025% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-9_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-9_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-9_do { 0% { stroke-dashoffset: 980px; } 5% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 14.025% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-10_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-10_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-10_do { 0% { stroke-dashoffset: 980px; } 7.775% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 16.8083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-11_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-13_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-11_do { 0% { stroke-dashoffset: 980px; } 7.775% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 16.8083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-12_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-11_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-12_do { 0% { stroke-dashoffset: 980px; } 14.8583% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-13_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-12_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-13_do { 0% { stroke-dashoffset: 980px; } 10.975% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-14_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-14_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-14_do { 0% { stroke-dashoffset: 980px; } 12.9167% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 21.9417% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-15_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-15_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-15_do { 0% { stroke-dashoffset: 980px; } 15.5583% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 21.25% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-16_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-16_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-16_do { 0% { stroke-dashoffset: 980px; } 14.1667% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-17_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-17_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-17_do { 0% { stroke-dashoffset: 980px; } 14.725% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-18_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-18_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-18_do { 0% { stroke-dashoffset: 980px; } 10.975% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-19_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-19_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-19_do { 0% { stroke-dashoffset: 980px; } 15.1417% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-20_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-20_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-20_do { 0% { stroke-dashoffset: 980px; } 15.5583% { stroke-dashoffset: 980px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20.5583% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-21_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_1_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-21_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-22_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_2_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-3_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-22_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-23_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_3_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-4_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-23_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-24_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_4_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-5_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-24_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-25_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_5_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-6_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-25_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-26_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_6_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-7_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-26_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-27_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_7_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-8_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-27_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-28_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_8_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-9_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-28_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-29_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_9_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-10_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-29_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-30_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_10_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-11_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-30_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-31_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_11_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-12_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-31_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-32_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_12_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-13_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-32_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-33_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_13_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-14_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-33_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-34_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_14_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-15_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-34_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-35_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_15_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-16_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-35_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-36_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_16_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-17_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-36_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-37_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_17_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-18_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-37_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-38_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_18_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-19_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-38_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-39_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_19_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-20_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-39_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-40_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_20_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-21_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-40_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-41_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_21_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-22_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-41_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-42_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_22_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-23_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-42_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-43_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_23_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-24_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-43_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-44_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_24_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-25_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-44_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-45_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_25_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-26_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-45_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-46_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_26_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-27_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-46_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-47_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_27_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-28_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-47_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-48_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_28_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-29_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-48_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-49_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_29_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-30_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-49_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-50_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_30_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-31_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-50_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-51_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_31_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-32_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-51_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-52_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_32_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-33_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-52_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-53_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_33_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-34_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-53_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-54_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_34_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-35_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-54_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-55_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_35_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-36_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-55_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-56_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_36_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-37_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-56_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-57_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_37_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-38_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-57_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-58_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_38_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-39_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-58_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-59_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_39_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-40_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-59_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-60_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_40_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-41_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-60_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-61_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_41_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-42_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-61_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-62_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_42_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-43_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-62_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-63_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_43_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-44_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-63_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-64_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_44_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-45_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-64_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-65_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_45_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-46_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-65_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-66_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_46_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-47_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-66_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-67_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_47_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-48_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-67_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-68_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_48_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-49_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-68_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-69_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_49_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-50_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-69_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-70_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes greenLeave_50_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 4.4417% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes Shape-1-51_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-70_do { 0% { stroke-dashoffset: -176px; } 15.5583% { stroke-dashoffset: -176px; animation-timing-function: cubic-bezier(0.333,0,0.218,1); } 23.8917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-71_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-7-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-71_do { 0% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 5.8083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-72_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-8-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-72_do { 0% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 5.8083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-73_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-9-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-73_do { 0% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 5.8083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-74_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-1-52_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-74_do { 0% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 7.8417% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-75_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-10-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-75_do { 0% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 8.6583% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-76_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-30_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-76_do { 0% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 5.8083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-77_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-31_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-77_do { 0% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 5.8083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-78_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-2-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-78_do { 0% { stroke-dashoffset: 900px; } 4.8917% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 9.575% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-79_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-11-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-79_do { 0% { stroke-dashoffset: 900px; } 4.9917% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 12.225% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-80_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-3-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-80_do { 0% { stroke-dashoffset: 900px; } 6.6167% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 12.325% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-81_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-4-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-81_do { 0% { stroke-dashoffset: 900px; } 8.45% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 16.3917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-82_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-5-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-82_do { 0% { stroke-dashoffset: 900px; } 10% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 19.1833% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-83_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-6-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-83_do { 0% { stroke-dashoffset: 900px; } 15.6917% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 22.225% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-84_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-12-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-84_do { 0% { stroke-dashoffset: 900px; } 8.25% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 32.6417% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-85_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-13-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-85_do { 0% { stroke-dashoffset: 900px; } 8.45% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 16.8083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-86_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-14-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-86_do { 0% { stroke-dashoffset: 900px; } 9.575% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 20.4167% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-87_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-15-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-87_do { 0% { stroke-dashoffset: 900px; } 14.1167% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 22.0833% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-88_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-16-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-88_do { 0% { stroke-dashoffset: 900px; } 14.1917% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 24.5833% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-89_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-17-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-89_do { 0% { stroke-dashoffset: 900px; } 12.225% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 20.8333% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-90_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-18-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-90_do { 0% { stroke-dashoffset: 900px; } 11.8083% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 22.775% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-91_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-19-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-91_do { 0% { stroke-dashoffset: 900px; } 7.0833% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 19.4417% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-92_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-20-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-92_do { 0% { stroke-dashoffset: 900px; } 9.775% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 16.9417% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-93_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-21_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-93_do { 0% { stroke-dashoffset: 900px; } 12.225% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 20.275% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-94_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-22_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-94_do { 0% { stroke-dashoffset: 900px; } 14.3083% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 21.8083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-95_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-23_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-95_do { 0% { stroke-dashoffset: 900px; } 14.3083% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 22.3% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-96_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-24_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-96_do { 0% { stroke-dashoffset: 900px; } 15.8333% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 21.3917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-97_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-25_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-97_do { 0% { stroke-dashoffset: 900px; } 10.1167% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 31.9417% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-98_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-26_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-98_do { 0% { stroke-dashoffset: 900px; } 10.6917% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 16.9417% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-99_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-27_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-99_do { 0% { stroke-dashoffset: 900px; } 15.1917% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 21.1083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-100_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-28_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-100_do { 0% { stroke-dashoffset: 900px; } 15.3667% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 21.3917% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-101_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Shape-29_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Path-1-101_do { 0% { stroke-dashoffset: 900px; } 16.5333% { stroke-dashoffset: 900px; animation-timing-function: cubic-bezier(0.333,0,0.239,1); } 24.8583% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-102_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Ellipse-1_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-2_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-2_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-3_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-3_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-4_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-4_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-5_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-5_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-6_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-6_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-7_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-7_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-8_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-8_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-9_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-9_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-10_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-10_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-11_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-11_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-12_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-12_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-13_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-13_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-14_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-14_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-15_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-15_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-16_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-16_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-17_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-17_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-18_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-18_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-19_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-19_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-20_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-20_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-21_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-21_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-22_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-22_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-23_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-23_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Ellipse-24_o { 0% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Ellipse-Path-1-24_do { 0% { stroke-dashoffset: -100px; } 8.475% { stroke-dashoffset: -100px; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 24.3083% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes Null-1-103_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes Null-1-104_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes FGW-Outlines---F_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 16.1083% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes F_o { 0% { opacity: 0; } 16.1083% { opacity: 0; } 23.3333% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Null-1-105_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes FGW-Outlines---G_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 21.525% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes G_o { 0% { opacity: 0; } 21.525% { opacity: 0; } 27.225% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes Null-1-106_t { 0% { transform: translate(1000px,947px) scale(0.95,0.95); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 66.6666% { transform: translate(1000px,947px) scale(1,1); } 100% { transform: translate(1000px,947px) scale(1,1); } }
+@keyframes FGW-Outlines---W_v { 0% { visibility: hidden; animation-timing-function: steps(1); } 28.3333% { visibility: visible; animation-timing-function: steps(1); } 100% { visibility: hidden; animation-timing-function: steps(1); } }
+@keyframes W_o { 0% { opacity: 0; } 28.3333% { opacity: 0; } 34.8583% { opacity: 1; } 83.475% { opacity: 1; } 95.5583% { opacity: 0; } 100% { opacity: 0; } }
+    </style>
+    <g id="Null-1" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1_t;">
+        <g id="greenLines---Shape-1" transform="translate(199.5,553.25) translate(-199.5,-553.25)">
+            <g id="Shape-1" opacity="1" style="animation: 12s linear infinite both Shape-1_o;">
+                <path id="Path-1" fill="none" d="M336,721C336,721,322,683.5,322,683.5C322,683.5,312.5,664.5,304,664.5C295.5,664.5,202.5,644.5,202.5,644.5C202.5,644.5,186.5,641,182.5,621C178.5,601,187,610.5,178,588.5C169,566.5,160.5,554,160.5,554C160.5,554,150.291,539.776,138,537.5C124.5,535,102,529,99.5,494.5C97,460,101.5,429,101.5,429C101.5,429,101,394.5,63,385.5" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-2" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-2_t;">
+        <g id="greenLines---Shape-2" transform="translate(297.75,704) translate(-297.75,-704)">
+            <g id="Shape-2" opacity="1" style="animation: 12s linear infinite both Shape-2_o;">
+                <path id="Path-1-2" fill="none" d="M275.75,722C275.75,722,282.5,705.75,282.5,705.75C282.5,705.75,286.75,697.75,295.25,694C303.75,690.25,319.75,686,319.75,686" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-2_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-3" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-3_t;">
+        <g id="greenLines---Shape-3" transform="translate(224.625,686.875) translate(-224.625,-686.875)">
+            <g id="Shape-3" opacity="1" style="animation: 12s linear infinite both Shape-3_o;">
+                <path id="Path-1-3" fill="none" d="M217.25,720.5C217.25,720.5,218,690.25,218,690.25C218,690.25,216.5,688,220.5,679.25C224.5,670.5,232,653.25,232,653.25" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-3_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-4" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-4_t;">
+        <g id="greenLines---Shape-4" transform="translate(87.768,562) translate(-87.768,-562)">
+            <g id="Shape-4" opacity="1" style="animation: 12s linear infinite both Shape-4_o;">
+                <path id="Path-1-4" fill="none" d="M123,721.5C123,721.5,146,689.5,146,689.5C146,689.5,151,680,150.5,673.5C150,667,149.375,615.375,149.375,615.375C149.375,615.375,148.46,602.698,146.875,597.625C145,591.625,138.5,580.5,138.5,580.5C138.5,580.5,131.5,568.5,121.5,565.5C111.5,562.5,98.5,557,98.5,557C98.5,557,66,552,68.5,516.5C71,481,68.5,449,68.5,449C68.5,449,69.5,424.5,50.5,415.5C31.5,406.5,25,402.5,25,402.5" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-4_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-5" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-5_t;">
+        <g id="greenLines---Shape-5" transform="translate(168,686.25) translate(-168,-686.25)">
+            <g id="Shape-5" opacity="1" style="animation: 12s linear infinite both Shape-5_o;">
+                <path id="Path-1-5" fill="none" d="M185,722C185,722,183.5,697,183.5,697C183.5,697,182.21,686.41,177,681.5C170.5,675.375,151,650.5,151,650.5" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-5_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-6" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-6_t;">
+        <g id="greenLines---Shape-6" transform="translate(80,643) translate(-80,-643)">
+            <g id="Shape-6" opacity="1" style="animation: 12s linear infinite both Shape-6_o;">
+                <path id="Path-1-6" fill="none" d="M45,721C45,721,45.5,647,45.5,647C45.5,647,45,636,49,634C53,632,115,565,115,565" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-6_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-7" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-7_t;">
+        <g id="greenLines---Shape-7" transform="translate(86.311,666.75) translate(-86.311,-666.75)">
+            <g id="Shape-7" opacity="1" style="animation: 12s linear infinite both Shape-7_o;">
+                <path id="Path-1-7" fill="none" d="M91,722.5C91,722.5,96,651.5,96,651.5C96,651.5,97.5,637,90,630.5C82.5,624,76.5,611,76.5,611" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-7_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-8" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-8_t;">
+        <g id="greenLines---Shape-8" transform="translate(9.852,280.5) translate(-9.852,-280.5)">
+            <g id="Shape-8" opacity="1" style="animation: 12s linear infinite both Shape-8_o;">
+                <path id="Path-1-8" fill="none" d="M-16,387C-16,387,-26,375,-26,375C-26,375,-33.5,368.5,-32.5,350.5C-31.5,332.5,-31,309,-31,309C-31,309,-25.5,281,-1,271C23.5,261,30.5,253.5,30.5,253.5C30.5,253.5,65.862,239.234,46.5,202C33.5,177,26.5,174,26.5,174" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-8_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-9" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-9_t;">
+        <g id="greenLines---Shape-9" transform="translate(42.29,259.75) translate(-42.29,-259.75)">
+            <g id="Shape-9" opacity="1" style="animation: 12s linear infinite both Shape-9_o;">
+                <path id="Path-1-9" fill="none" d="M26.5,370.5C26.5,370.5,7,366,3.5,350.5C0,335,3.5,307.5,15.5,299.5C27.5,291.5,60.5,274,69.5,264.5C78.5,255,86.507,234.534,80,202.5C73.5,170.5,49,149,49,149" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-9_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-10" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-10_t;">
+        <g id="greenLines---Shape-10" transform="translate(-265.5,91.5) translate(265.5,-91.5)">
+            <g id="Shape-10" opacity="1" style="animation: 12s linear infinite both Shape-10_o;">
+                <path id="Path-1-10" fill="none" d="M7,147C7,147,-106,20,-106,20C-106,20,-125,6,-135,6C-145,6,-215,6,-215,6C-215,6,-237,11,-252,17C-267,23,-280.48,41.623,-295,50C-321,65,-379,60,-379,60C-379,60,-412,63,-432,77C-452,91,-538,177,-538,177" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-10_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-11" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-11_t;">
+        <g id="greenLines---Shape-13" transform="translate(-111.979,-243) translate(111.979,243)">
+            <g id="Shape-13" opacity="1" style="animation: 12s linear infinite both Shape-13_o;">
+                <path id="Path-1-11" fill="none" d="M25,121C25,121,-80,6,-80,6C-80,6,-93,-2,-95,-35C-97,-68,-98,-152,-98,-152C-98,-152,-99,-186,-124,-202C-149,-218,-220,-274,-220,-274C-220,-274,-245,-282,-248,-323C-251,-364,-246,-409,-246,-409C-246,-409,-247,-434,-227,-449C-207,-464,-219,-484,-214,-507C-209,-530,-214,-607,-214,-607" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-11_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-12" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-12_t;">
+        <g id="greenLines---Shape-11" transform="translate(-570.5,72.847) translate(570.5,-72.847)">
+            <g id="Shape-11" opacity="1" style="animation: 12s linear infinite both Shape-11_o;">
+                <path id="Path-1-12" fill="none" d="M-460,101C-460,101,-494,80,-511,80C-528,80,-537,87,-563,80C-589,73,-591,54,-613,48C-635,42,-681,46,-681,46" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-12_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-13" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-13_t;">
+        <g id="greenLines---Shape-12" transform="translate(-328.5,-42.736) translate(328.5,42.736)">
+            <g id="Shape-12" opacity="1" style="animation: 12s linear infinite both Shape-12_o;">
+                <path id="Path-1-13" fill="none" d="M-155,4C-155,4,-172,-71,-201,-80C-230,-89,-256,-88,-275,-89C-294,-90,-323,-91,-341,-74C-359,-57,-356,-48,-384,-44C-412,-40,-502,-41,-502,-41" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-13_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-14" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-14_t;">
+        <g id="greenLines---Shape-14" transform="translate(-364,-208.5) translate(364,208.5)">
+            <g id="Shape-14" opacity="1" style="animation: 12s linear infinite both Shape-14_o;">
+                <path id="Path-1-14" fill="none" d="M-196,-250C-196,-250,-226,-219,-247,-209C-268,-199,-296,-207,-319,-205C-342,-203,-367,-212,-393,-202C-419,-192,-415,-183,-435,-175C-455,-167,-532,-167,-532,-167" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-14_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-15" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-15_t;">
+        <g id="greenLines---Shape-15" transform="translate(-433,-265) translate(433,265)">
+            <g id="Shape-15" opacity="1" style="animation: 12s linear infinite both Shape-15_o;">
+                <path id="Path-1-15" fill="none" d="M-331,-206C-331,-206,-337,-274,-394,-277C-451,-280,-442,-271,-471,-278C-500,-285,-535,-324,-535,-324" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-15_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-16" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-16_t;">
+        <g id="greenLines---Shape-16" transform="translate(-315.5,-455) translate(315.5,455)">
+            <g id="Shape-16" opacity="1" style="animation: 12s linear infinite both Shape-16_o;">
+                <path id="Path-1-16" fill="none" d="M-249,-385C-249,-385,-316,-418,-333,-436C-350,-454,-382,-525,-382,-525" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-16_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-17" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-17_t;">
+        <g id="greenLines---Shape-17" transform="translate(-174.404,-574) translate(174.404,574)">
+            <g id="Shape-17" opacity="1" style="animation: 12s linear infinite both Shape-17_o;">
+                <path id="Path-1-17" fill="none" d="M-212,-533C-212,-533,-177,-541,-156,-561C-133.54,-582.39,-137,-615,-137,-615" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-17_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-18" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-18_t;">
+        <g id="greenLines---Shape-18" transform="translate(-12.178,-295) translate(12.178,295)">
+            <g id="Shape-18" opacity="1" style="animation: 12s linear infinite both Shape-18_o;">
+                <path id="Path-1-18" fill="none" d="M-34,52C-34,52,-1,-1,-1,-1C-1,-1,8,-25,8,-41C8,-57,8,-152,8,-152C8,-152,9,-184,-16,-200C-41,-216,-42,-225,-42,-253C-42,-281,-39,-385,-39,-385C-39,-385,-40,-400,-16,-428C8,-456,11,-454,16,-493C21,-532,13,-642,13,-642" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-18_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-19" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-19_t;">
+        <g id="greenLines---Shape-19" transform="translate(-83.015,-362) translate(83.015,362)">
+            <g id="Shape-19" opacity="1" style="animation: 12s linear infinite both Shape-19_o;">
+                <path id="Path-1-19" fill="none" d="M-43,-277C-43,-277,-99,-310,-99,-310C-99,-310,-124,-332,-123,-358C-122,-384,-120,-447,-120,-447" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-19_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-20" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-20_t;">
+        <g id="greenLines---Shape-20" transform="translate(-495.75,-63.5) translate(495.75,63.5)">
+            <g id="Shape-20" opacity="1" style="animation: 12s linear infinite both Shape-20_o;">
+                <path id="Path-1-20" fill="none" d="M-438,-42C-438,-42,-450.5,-77.5,-474,-80.5C-497.5,-83.5,-553.5,-85,-553.5,-85" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="980 980" stroke-dashoffset="980" style="animation: 12s linear infinite both Path-1-20_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-21" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-21_t;">
+        <g id="greenLeave_1" visibility="hidden" transform="translate(-212.89,-602) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_1_v;">
+            <g id="Shape-1-2" opacity="1" style="animation: 12s linear infinite both Shape-1-2_o;">
+                <path id="Path-1-21" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-21_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-22" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-22_t;">
+        <g id="greenLeave_2" visibility="hidden" transform="translate(14.11,-644) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_2_v;">
+            <g id="Shape-1-3" opacity="1" style="animation: 12s linear infinite both Shape-1-3_o;">
+                <path id="Path-1-22" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-22_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-23" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-23_t;">
+        <g id="greenLeave_3" visibility="hidden" transform="translate(-137.39,-611) rotate(40) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_3_v;">
+            <g id="Shape-1-4" opacity="1" style="animation: 12s linear infinite both Shape-1-4_o;">
+                <path id="Path-1-23" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-23_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-24" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-24_t;">
+        <g id="greenLeave_4" visibility="hidden" transform="translate(-215.39,-525) rotate(-51) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_4_v;">
+            <g id="Shape-1-5" opacity="1" style="animation: 12s linear infinite both Shape-1-5_o;">
+                <path id="Path-1-24" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-24_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-25" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-25_t;">
+        <g id="greenLeave_5" visibility="hidden" transform="translate(-212.89,-472) rotate(43) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_5_v;">
+            <g id="Shape-1-6" opacity="1" style="animation: 12s linear infinite both Shape-1-6_o;">
+                <path id="Path-1-25" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-25_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-26" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-26_t;">
+        <g id="greenLeave_6" visibility="hidden" transform="translate(-378.89,-523) rotate(-43) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_6_v;">
+            <g id="Shape-1-7" opacity="1" style="animation: 12s linear infinite both Shape-1-7_o;">
+                <path id="Path-1-26" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-26_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-27" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-27_t;">
+        <g id="greenLeave_7" visibility="hidden" transform="translate(-355.89,-462) rotate(-61) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_7_v;">
+            <g id="Shape-1-8" opacity="1" style="animation: 12s linear infinite both Shape-1-8_o;">
+                <path id="Path-1-27" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-27_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-28" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-28_t;">
+        <g id="greenLeave_8" visibility="hidden" transform="translate(-295.89,-416) rotate(-4) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_8_v;">
+            <g id="Shape-1-9" opacity="1" style="animation: 12s linear infinite both Shape-1-9_o;">
+                <path id="Path-1-28" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-28_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-29" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-29_t;">
+        <g id="greenLeave_9" visibility="hidden" transform="translate(-251.89,-328) rotate(-45) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_9_v;">
+            <g id="Shape-1-10" opacity="1" style="animation: 12s linear infinite both Shape-1-10_o;">
+                <path id="Path-1-29" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-29_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-30" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-30_t;">
+        <g id="greenLeave_10" visibility="hidden" transform="translate(-243.89,-319) rotate(37) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_10_v;">
+            <g id="Shape-1-11" opacity="1" style="animation: 12s linear infinite both Shape-1-11_o;">
+                <path id="Path-1-30" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-30_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-31" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-31_t;">
+        <g id="greenLeave_11" visibility="hidden" transform="translate(-115.89,-374) rotate(37) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_11_v;">
+            <g id="Shape-1-12" opacity="1" style="animation: 12s linear infinite both Shape-1-12_o;">
+                <path id="Path-1-31" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-31_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-32" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-32_t;">
+        <g id="greenLeave_12" visibility="hidden" transform="translate(-119.89,-445) rotate(1) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_12_v;">
+            <g id="Shape-1-13" opacity="1" style="animation: 12s linear infinite both Shape-1-13_o;">
+                <path id="Path-1-32" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-32_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-33" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-33_t;">
+        <g id="greenLeave_13" visibility="hidden" transform="translate(-122.89,-341) rotate(-48) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_13_v;">
+            <g id="Shape-1-14" opacity="1" style="animation: 12s linear infinite both Shape-1-14_o;">
+                <path id="Path-1-33" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-33_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-34" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-34_t;">
+        <g id="greenLeave_14" visibility="hidden" transform="translate(-138.89,-214) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_14_v;">
+            <g id="Shape-1-15" opacity="1" style="animation: 12s linear infinite both Shape-1-15_o;">
+                <path id="Path-1-34" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-34_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-35" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-35_t;">
+        <g id="greenLeave_15" visibility="hidden" transform="translate(-38.89,-360) rotate(61) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_15_v;">
+            <g id="Shape-1-16" opacity="1" style="animation: 12s linear infinite both Shape-1-16_o;">
+                <path id="Path-1-35" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-35_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-36" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-36_t;">
+        <g id="greenLeave_16" visibility="hidden" transform="translate(-40.89,-306) rotate(-44) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_16_v;">
+            <g id="Shape-1-17" opacity="1" style="animation: 12s linear infinite both Shape-1-17_o;">
+                <path id="Path-1-36" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-36_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-37" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-37_t;">
+        <g id="greenLeave_17" visibility="hidden" transform="translate(-40.89,-232) rotate(48) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_17_v;">
+            <g id="Shape-1-18" opacity="1" style="animation: 12s linear infinite both Shape-1-18_o;">
+                <path id="Path-1-37" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-37_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-38" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-38_t;">
+        <g id="greenLeave_18" visibility="hidden" transform="translate(7.11,-126) rotate(-50) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_18_v;">
+            <g id="Shape-1-19" opacity="1" style="animation: 12s linear infinite both Shape-1-19_o;">
+                <path id="Path-1-38" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-38_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-39" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-39_t;">
+        <g id="greenLeave_19" visibility="hidden" transform="translate(-13.89,15) rotate(-10) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_19_v;">
+            <g id="Shape-1-20" opacity="1" style="animation: 12s linear infinite both Shape-1-20_o;">
+                <path id="Path-1-39" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-39_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-40" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-40_t;">
+        <g id="greenLeave_20" visibility="hidden" transform="translate(-95.89,-54) rotate(36) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_20_v;">
+            <g id="Shape-1-21" opacity="1" style="animation: 12s linear infinite both Shape-1-21_o;">
+                <path id="Path-1-40" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-40_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-41" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-41_t;">
+        <g id="greenLeave_21" visibility="hidden" transform="translate(-101.89,-118) rotate(-54) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_21_v;">
+            <g id="Shape-1-22" opacity="1" style="animation: 12s linear infinite both Shape-1-22_o;">
+                <path id="Path-1-41" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-41_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-42" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-42_t;">
+        <g id="greenLeave_22" visibility="hidden" transform="translate(-536.89,-324) rotate(6) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_22_v;">
+            <g id="Shape-1-23" opacity="1" style="animation: 12s linear infinite both Shape-1-23_o;">
+                <path id="Path-1-42" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-42_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-43" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-43_t;">
+        <g id="greenLeave_23" visibility="hidden" transform="translate(-515.89,-299) rotate(-89) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_23_v;">
+            <g id="Shape-1-24" opacity="1" style="animation: 12s linear infinite both Shape-1-24_o;">
+                <path id="Path-1-43" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-43_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-44" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-44_t;">
+        <g id="greenLeave_24" visibility="hidden" transform="translate(-414.89,-279) rotate(-34) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_24_v;">
+            <g id="Shape-1-25" opacity="1" style="animation: 12s linear infinite both Shape-1-25_o;">
+                <path id="Path-1-44" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-44_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-45" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-45_t;">
+        <g id="greenLeave_25" visibility="hidden" transform="translate(-342.89,-236) rotate(-80) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_25_v;">
+            <g id="Shape-1-26" opacity="1" style="animation: 12s linear infinite both Shape-1-26_o;">
+                <path id="Path-1-45" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-45_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-46" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-46_t;">
+        <g id="greenLeave_26" visibility="hidden" transform="translate(-531.89,-166) rotate(-80) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_26_v;">
+            <g id="Shape-1-27" opacity="1" style="animation: 12s linear infinite both Shape-1-27_o;">
+                <path id="Path-1-46" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-46_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-47" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-47_t;">
+        <g id="greenLeave_27" visibility="hidden" transform="translate(-475.89,-172) rotate(-39) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_27_v;">
+            <g id="Shape-1-28" opacity="1" style="animation: 12s linear infinite both Shape-1-28_o;">
+                <path id="Path-1-47" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-47_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-48" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-48_t;">
+        <g id="greenLeave_28" visibility="hidden" transform="translate(-330.89,-203) rotate(-131) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_28_v;">
+            <g id="Shape-1-29" opacity="1" style="animation: 12s linear infinite both Shape-1-29_o;">
+                <path id="Path-1-48" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-48_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-49" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-49_t;">
+        <g id="greenLeave_29" visibility="hidden" transform="translate(-220.89,-229) rotate(-173) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_29_v;">
+            <g id="Shape-1-30" opacity="1" style="animation: 12s linear infinite both Shape-1-30_o;">
+                <path id="Path-1-49" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-49_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-50" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-50_t;">
+        <g id="greenLeave_30" visibility="hidden" transform="translate(-232.89,-221) rotate(-43) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_30_v;">
+            <g id="Shape-1-31" opacity="1" style="animation: 12s linear infinite both Shape-1-31_o;">
+                <path id="Path-1-50" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-50_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-51" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-51_t;">
+        <g id="greenLeave_31" visibility="hidden" transform="translate(-252.89,-93) rotate(-43) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_31_v;">
+            <g id="Shape-1-32" opacity="1" style="animation: 12s linear infinite both Shape-1-32_o;">
+                <path id="Path-1-51" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-51_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-52" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-52_t;">
+        <g id="greenLeave_32" visibility="hidden" transform="translate(-388.89,-46) rotate(-43) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_32_v;">
+            <g id="Shape-1-33" opacity="1" style="animation: 12s linear infinite both Shape-1-33_o;">
+                <path id="Path-1-52" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-52_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-53" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-53_t;">
+        <g id="greenLeave_33" visibility="hidden" transform="translate(-491.89,-87) rotate(-43) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_33_v;">
+            <g id="Shape-1-34" opacity="1" style="animation: 12s linear infinite both Shape-1-34_o;">
+                <path id="Path-1-53" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-53_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-54" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-54_t;">
+        <g id="greenLeave_34" visibility="hidden" transform="translate(-554.89,-85) rotate(-85) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_34_v;">
+            <g id="Shape-1-35" opacity="1" style="animation: 12s linear infinite both Shape-1-35_o;">
+                <path id="Path-1-54" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-54_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-55" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-55_t;">
+        <g id="greenLeave_35" visibility="hidden" transform="translate(-497.89,-37) rotate(-85) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_35_v;">
+            <g id="Shape-1-36" opacity="1" style="animation: 12s linear infinite both Shape-1-36_o;">
+                <path id="Path-1-55" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-55_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-56" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-56_t;">
+        <g id="greenLeave_36" visibility="hidden" transform="translate(-685.89,43) rotate(-85) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_36_v;">
+            <g id="Shape-1-37" opacity="1" style="animation: 12s linear infinite both Shape-1-37_o;">
+                <path id="Path-1-56" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-56_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-57" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-57_t;">
+        <g id="greenLeave_37" visibility="hidden" transform="translate(-641.89,41) rotate(-36) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_37_v;">
+            <g id="Shape-1-38" opacity="1" style="animation: 12s linear infinite both Shape-1-38_o;">
+                <path id="Path-1-57" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-57_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-58" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-58_t;">
+        <g id="greenLeave_38" visibility="hidden" transform="translate(-619.89,50) rotate(-127) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_38_v;">
+            <g id="Shape-1-39" opacity="1" style="animation: 12s linear infinite both Shape-1-39_o;">
+                <path id="Path-1-58" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-58_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-59" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-59_t;">
+        <g id="greenLeave_39" visibility="hidden" transform="translate(-522.89,81) rotate(-32) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_39_v;">
+            <g id="Shape-1-40" opacity="1" style="animation: 12s linear infinite both Shape-1-40_o;">
+                <path id="Path-1-59" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-59_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-60" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-60_t;">
+        <g id="greenLeave_40" visibility="hidden" transform="translate(-536.89,178) rotate(-123) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_40_v;">
+            <g id="Shape-1-41" opacity="1" style="animation: 12s linear infinite both Shape-1-41_o;">
+                <path id="Path-1-60" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-60_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-61" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-61_t;">
+        <g id="greenLeave_41" visibility="hidden" transform="translate(-489.89,125) rotate(-87) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_41_v;">
+            <g id="Shape-1-42" opacity="1" style="animation: 12s linear infinite both Shape-1-42_o;">
+                <path id="Path-1-61" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-61_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-62" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-62_t;">
+        <g id="greenLeave_42" visibility="hidden" transform="translate(-476.89,118) rotate(-182) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_42_v;">
+            <g id="Shape-1-43" opacity="1" style="animation: 12s linear infinite both Shape-1-43_o;">
+                <path id="Path-1-62" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-62_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-63" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-63_t;">
+        <g id="greenLeave_43" visibility="hidden" transform="translate(-370.89,62) rotate(-136) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_43_v;">
+            <g id="Shape-1-44" opacity="1" style="animation: 12s linear infinite both Shape-1-44_o;">
+                <path id="Path-1-63" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-63_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-64" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-64_t;">
+        <g id="greenLeave_44" visibility="hidden" transform="translate(-340.89,58) rotate(-40) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_44_v;">
+            <g id="Shape-1-45" opacity="1" style="animation: 12s linear infinite both Shape-1-45_o;">
+                <path id="Path-1-64" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-64_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-65" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-65_t;">
+        <g id="greenLeave_45" visibility="hidden" transform="translate(-226.89,7) rotate(-40) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_45_v;">
+            <g id="Shape-1-46" opacity="1" style="animation: 12s linear infinite both Shape-1-46_o;">
+                <path id="Path-1-65" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-65_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-66" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-66_t;">
+        <g id="greenLeave_46" visibility="hidden" transform="translate(-440.89,-40) rotate(-144) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_46_v;">
+            <g id="Shape-1-47" opacity="1" style="animation: 12s linear infinite both Shape-1-47_o;">
+                <path id="Path-1-66" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-66_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-67" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-67_t;">
+        <g id="greenLeave_47" visibility="hidden" transform="translate(-281.89,-90) rotate(-134) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_47_v;">
+            <g id="Shape-1-48" opacity="1" style="animation: 12s linear infinite both Shape-1-48_o;">
+                <path id="Path-1-67" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-67_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-68" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-68_t;">
+        <g id="greenLeave_48" visibility="hidden" transform="translate(-166.89,-19) rotate(-51) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_48_v;">
+            <g id="Shape-1-49" opacity="1" style="animation: 12s linear infinite both Shape-1-49_o;">
+                <path id="Path-1-68" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-68_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-69" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-69_t;">
+        <g id="greenLeave_49" visibility="hidden" transform="translate(-179.89,11) rotate(-135) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_49_v;">
+            <g id="Shape-1-50" opacity="1" style="animation: 12s linear infinite both Shape-1-50_o;">
+                <path id="Path-1-69" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-69_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-70" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-70_t;">
+        <g id="greenLeave_50" visibility="hidden" transform="translate(-166.89,-52) rotate(5) translate(212.89,602)" style="animation: 12s linear infinite forwards greenLeave_50_v;">
+            <g id="Shape-1-51" opacity="1" style="animation: 12s linear infinite both Shape-1-51_o;">
+                <path id="Path-1-70" fill="none" d="M-212.5,-602C-212.5,-602,-200,-614,-198.5,-637.75C-197.898,-647.283,-214.5,-670.5,-214.5,-670.5C-214.5,-670.5,-226.25,-650,-227.25,-637C-228.25,-624,-212.5,-602,-212.5,-602Z" stroke="#36c63d" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="176 176" stroke-dashoffset="-176" style="animation: 12s linear infinite both Path-1-70_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-71" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-71_t;">
+        <g id="blueLines_1---Shape-7" transform="translate(-249.063,703.5) translate(249.063,-703.5)">
+            <g id="Shape-7-2" opacity="1" style="animation: 12s linear infinite both Shape-7-2_o;">
+                <path id="Path-1-71" fill="none" d="M-227,721.375C-227,721.375,-238.625,697.625,-238.625,697.625C-238.625,697.625,-271.125,685.625,-271.125,685.625" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-71_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-72" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-72_t;">
+        <g id="blueLines_1---Shape-8" transform="translate(-176.5,686.5) translate(176.5,-686.5)">
+            <g id="Shape-8-2" opacity="1" style="animation: 12s linear infinite both Shape-8-2_o;">
+                <path id="Path-1-72" fill="none" d="M-169,721.25C-169,721.25,-169,687,-169,687C-169,687,-184,651.75,-184,651.75" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-72_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-73" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-73_t;">
+        <g id="blueLines_1---Shape-9" transform="translate(-117.875,685.5) translate(117.875,-685.5)">
+            <g id="Shape-9-2" opacity="1" style="animation: 12s linear infinite both Shape-9-2_o;">
+                <path id="Path-1-73" fill="none" d="M-135.75,721C-135.75,721,-133.25,688.5,-133.25,688.5C-133.25,688.5,-100,650,-100,650" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-73_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-74" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-74_t;">
+        <g id="blueLines_1---Shape-1" transform="translate(-120.601,509.226) translate(120.601,-509.226)">
+            <g id="Shape-1-52" opacity="1" style="animation: 12s linear infinite both Shape-1-52_o;">
+                <path id="Path-1-74" fill="none" d="M-286.5,720.75C-286.5,720.75,-265.125,664.25,-265.125,664.25C-265.125,664.25,-132.75,639.25,-132.75,639.25C-132.75,639.25,-133,597,-133,597C-133,597,-106,544.5,-106,544.5C-106,544.5,-51.5,524,-51.5,524C-51.5,524,-52.5,404,-52.5,404C-52.5,404,45.298,357.525,45.298,357.525C45.298,357.525,39.595,316.455,39.595,316.455C39.595,316.455,29.227,297.702,29.227,297.702" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-74_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-75" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-75_t;">
+        <g id="blueLines_1---Shape-10" transform="translate(-10.75,501.12) translate(10.75,-501.12)">
+            <g id="Shape-10-2" opacity="1" style="animation: 12s linear infinite both Shape-10-2_o;">
+                <path id="Path-1-75" fill="none" d="M-75,721.25C-75,721.25,-101.75,684.5,-101.75,684.5C-101.75,684.5,-100.5,602.75,-100.5,602.75C-100.5,602.75,-83.25,570.25,-83.25,570.25C-83.25,570.25,-19.5,546,-19.5,546C-19.5,546,-19.75,424,-19.75,424C-19.75,424,80.25,377,80.25,377C80.25,377,65.393,293.829,65.393,293.829C65.393,293.829,57.149,280.99,57.149,280.99" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-75_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-76" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-76_t;">
+        <g id="blueLines_1---Shape-30" transform="translate(-30.5,643.75) translate(30.5,-643.75)">
+            <g id="Shape-30" opacity="1" style="animation: 12s linear infinite both Shape-30_o;">
+                <path id="Path-1-76" fill="none" d="M3.5,720.5C3.5,720.5,3.5,637.5,3.5,637.5C3.5,637.5,-64.5,567,-64.5,567" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-76_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-77" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-77_t;">
+        <g id="blueLines_1---Shape-31" transform="translate(-34.75,666.5) translate(34.75,-666.5)">
+            <g id="Shape-31" opacity="1" style="animation: 12s linear infinite both Shape-31_o;">
+                <path id="Path-1-77" fill="none" d="M-44,722C-44,722,-45,636,-45,636C-45,636,-24.5,611,-24.5,611" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-77_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-78" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-78_t;">
+        <g id="blueLines_1---Shape-2" transform="translate(17.836,162.25) translate(-17.836,-162.25)">
+            <g id="Shape-2-2" opacity="1" style="animation: 12s linear infinite both Shape-2-2_o;">
+                <path id="Path-1-78" fill="none" d="M4.577,262.999C4.577,262.999,-11.357,239.994,-11.357,239.994C-11.357,239.994,-40.829,200.904,-40.829,200.904C-40.829,200.904,76.5,61.5,76.5,61.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-78_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-79" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-79_t;">
+        <g id="blueLines_1---Shape-11" transform="translate(93,127.035) translate(-93,-127.035)">
+            <g id="Shape-11-2" opacity="1" style="animation: 12s linear infinite both Shape-11-2_o;">
+                <path id="Path-1-79" fill="none" d="M29.541,248.07C29.541,248.07,16.309,226.928,16.309,226.928C16.309,226.928,-1,204.5,-1,204.5C-1,204.5,167,7,167,7C167,7,187,6,187,6" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-79_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-80" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-80_t;">
+        <g id="blueLines_2---Shape-3" transform="translate(59,-68.75) translate(-59,68.75)">
+            <g id="Shape-3-2" opacity="1" style="animation: 12s linear infinite both Shape-3-2_o;">
+                <path id="Path-1-80" fill="none" d="M76,35.5C76,35.5,42,-17.5,42,-17.5C42,-17.5,42.5,-173,42.5,-173" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-80_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-81" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-81_t;">
+        <g id="blueLines_2---Shape-4" transform="translate(73.5,-233) translate(-73.5,233)">
+            <g id="Shape-4-2" opacity="1" style="animation: 12s linear infinite both Shape-4-2_o;">
+                <path id="Path-1-81" fill="none" d="M56,-196.5C56,-196.5,90.5,-220,90.5,-220C90.5,-220,91,-269.5,91,-269.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-81_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-82" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-82_t;">
+        <g id="blueLines_2---Shape-5" transform="translate(89,-348.25) translate(-89,348.25)">
+            <g id="Shape-5-2" opacity="1" style="animation: 12s linear infinite both Shape-5-2_o;">
+                <path id="Path-1-82" fill="none" d="M90.5,-297.5C90.5,-297.5,87.5,-399,87.5,-399" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-82_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-83" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-83_t;">
+        <g id="blueLines_2---Shape-6" transform="translate(111,-552.75) translate(-111,552.75)">
+            <g id="Shape-6-2" opacity="1" style="animation: 12s linear infinite both Shape-6-2_o;">
+                <path id="Path-1-83" fill="none" d="M153.5,-471.5C153.5,-471.5,71.5,-515,71.5,-515C71.5,-515,68.5,-634,68.5,-634" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-83_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-84" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-84_t;">
+        <g id="blueLines_2---Shape-12" transform="translate(359.75,49) translate(-359.75,-49)">
+            <g id="Shape-12-2" opacity="1" style="animation: 12s linear infinite both Shape-12-2_o;">
+                <path id="Path-1-84" fill="none" d="M215.5,6C215.5,6,306,5.5,306,5.5C306,5.5,345.5,54,345.5,54C345.5,54,467.5,59,467.5,59C467.5,59,504,92.5,504,92.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-84_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-85" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-85_t;">
+        <g id="blueLines_2---Shape-13" transform="translate(224,-44.75) translate(-224,44.75)">
+            <g id="Shape-13-2" opacity="1" style="animation: 12s linear infinite both Shape-13-2_o;">
+                <path id="Path-1-85" fill="none" d="M207,-9C207,-9,241,-80.5,241,-80.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-85_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-86" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-86_t;">
+        <g id="blueLines_2---Shape-14" transform="translate(371,-69.75) translate(-371,69.75)">
+            <g id="Shape-14-2" opacity="1" style="animation: 12s linear infinite both Shape-14-2_o;">
+                <path id="Path-1-86" fill="none" d="M266.5,-94C266.5,-94,384,-93,384,-93C384,-93,416.5,-46.5,416.5,-46.5C416.5,-46.5,475.5,-45.5,475.5,-45.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-86_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-87" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-87_t;">
+        <g id="blueLines_2---Shape-15" transform="translate(530.75,-46) translate(-530.75,46)">
+            <g id="Shape-15-2" opacity="1" style="animation: 12s linear infinite both Shape-15-2_o;">
+                <path id="Path-1-87" fill="none" d="M503,-46C503,-46,558.5,-46,558.5,-46" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-87_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-88" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-88_t;">
+        <g id="blueLines_2---Shape-16" transform="translate(554.5,-74.75) translate(-554.5,74.75)">
+            <g id="Shape-16-2" opacity="1" style="animation: 12s linear infinite both Shape-16-2_o;">
+                <path id="Path-1-88" fill="none" d="M494.5,-60C494.5,-60,511,-89.5,511,-89.5C511,-89.5,614.5,-88,614.5,-88" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-88_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-89" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-89_t;">
+        <g id="blueLines_2---Shape-17" transform="translate(494.75,-190) translate(-494.75,190)">
+            <g id="Shape-17-2" opacity="1" style="animation: 12s linear infinite both Shape-17-2_o;">
+                <path id="Path-1-89" fill="none" d="M396.5,-209C396.5,-209,452.5,-208.5,452.5,-208.5C452.5,-208.5,491,-171,491,-171C491,-171,593,-172.5,593,-172.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-89_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-90" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-90_t;">
+        <g id="blueLines_2---Shape-18" transform="translate(489,-275.5) translate(-489,275.5)">
+            <g id="Shape-18-2" opacity="1" style="animation: 12s linear infinite both Shape-18-2_o;">
+                <path id="Path-1-90" fill="none" d="M387,-224C387,-224,413.5,-281.5,413.5,-281.5C413.5,-281.5,543.5,-281.5,543.5,-281.5C543.5,-281.5,591,-327,591,-327" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-90_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-91" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-91_t;">
+        <g id="blueLines_2---Shape-19" transform="translate(122.5,-67.5) translate(-122.5,67.5)">
+            <g id="Shape-19-2" opacity="1" style="animation: 12s linear infinite both Shape-19-2_o;">
+                <path id="Path-1-91" fill="none" d="M96,37C96,37,146,-16,146,-16C146,-16,149,-172,149,-172" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-91_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-92" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-92_t;">
+        <g id="blueLines_2---Shape-20" transform="translate(195.375,-221.875) translate(-195.375,221.875)">
+            <g id="Shape-20-2" opacity="1" style="animation: 12s linear infinite both Shape-20-2_o;">
+                <path id="Path-1-92" fill="none" d="M159.75,-196.5C159.75,-196.5,231,-247.25,231,-247.25" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-92_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-93" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-93_t;">
+        <g id="blueLines_2---Shape-21" transform="translate(275.25,-320) translate(-275.25,320)">
+            <g id="Shape-21" opacity="1" style="animation: 12s linear infinite both Shape-21_o;">
+                <path id="Path-1-93" fill="none" d="M252.5,-264C252.5,-264,298,-298,298,-298C298,-298,297,-376,297,-376" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-93_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-94" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-94_t;">
+        <g id="blueLines_2---Shape-22" transform="translate(373,-464.5) translate(-373,464.5)">
+            <g id="Shape-22" opacity="1" style="animation: 12s linear infinite both Shape-22_o;">
+                <path id="Path-1-94" fill="none" d="M311.5,-396.5C311.5,-396.5,384.5,-440.5,384.5,-440.5C384.5,-440.5,434.5,-532.5,434.5,-532.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-94_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-95" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-95_t;">
+        <g id="blueLines_2---Shape-23" transform="translate(278.25,-512.25) translate(-278.25,512.25)">
+            <g id="Shape-23" opacity="1" style="animation: 12s linear infinite both Shape-23_o;">
+                <path id="Path-1-95" fill="none" d="M295.5,-402.5C295.5,-402.5,294.5,-435,294.5,-435C294.5,-435,264.5,-466,264.5,-466C264.5,-466,261,-622,261,-622" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-95_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-96" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-96_t;">
+        <g id="blueLines_2---Shape-24" transform="translate(224.25,-579.5) translate(-224.25,579.5)">
+            <g id="Shape-24" opacity="1" style="animation: 12s linear infinite both Shape-24_o;">
+                <path id="Path-1-96" fill="none" d="M261.5,-539C261.5,-539,206.5,-557,206.5,-557C206.5,-557,187,-620,187,-620" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-96_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-97" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-97_t;">
+        <g id="blueLines_2---Shape-25" transform="translate(137,-372.25) translate(-137,372.25)">
+            <g id="Shape-25" opacity="1" style="animation: 12s linear infinite both Shape-25_o;">
+                <path id="Path-1-97" fill="none" d="M103.5,-288C103.5,-288,169.5,-329.5,169.5,-329.5C169.5,-329.5,170.5,-456.5,170.5,-456.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-97_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-98" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-98_t;">
+        <g id="blueLines_2---Shape-26" transform="translate(310.5,-226) translate(-310.5,226)">
+            <g id="Shape-26" opacity="1" style="animation: 12s linear infinite both Shape-26_o;">
+                <path id="Path-1-98" fill="none" d="M252.5,-245C252.5,-245,302.5,-207,302.5,-207C302.5,-207,368.5,-208.5,368.5,-208.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-98_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-99" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-99_t;">
+        <g id="blueLines_2---Shape-27" transform="translate(558.75,144.5) translate(-558.75,-144.5)">
+            <g id="Shape-27" opacity="1" style="animation: 12s linear infinite both Shape-27_o;">
+                <path id="Path-1-99" fill="none" d="M523.5,111C523.5,111,594,178,594,178" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-99_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-100" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-100_t;">
+        <g id="blueLines_2---Shape-28" transform="translate(570.25,83.5) translate(-570.25,-83.5)">
+            <g id="Shape-28" opacity="1" style="animation: 12s linear infinite both Shape-28_o;">
+                <path id="Path-1-100" fill="none" d="M526.5,90.5C526.5,90.5,553.5,77,553.5,77C553.5,77,614,76.5,614,76.5" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-100_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-101" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-101_t;">
+        <g id="blueLines_2---Shape-29" transform="translate(682.25,53.75) translate(-682.25,-53.75)">
+            <g id="Shape-29" opacity="1" style="animation: 12s linear infinite both Shape-29_o;">
+                <path id="Path-1-101" fill="none" d="M636,67C636,67,666,40.5,666,40.5C666,40.5,728.5,41,728.5,41" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="900 900" stroke-dashoffset="900" style="animation: 12s linear infinite both Path-1-101_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-102" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-102_t;">
+        <g id="blueCircles" transform="translate(-0.625,-1)">
+            <g id="Ellipse-1" opacity="1" transform="translate(83.875,50.125)" style="animation: 12s linear infinite both Ellipse-1_o;">
+                <path id="Ellipse-Path-1" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1_do;"/>
+            </g>
+            <g id="Ellipse-2" opacity="1" transform="translate(200.875,5.625)" style="animation: 12s linear infinite both Ellipse-2_o;">
+                <path id="Ellipse-Path-1-2" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-2_do;"/>
+            </g>
+            <g id="Ellipse-3" opacity="1" transform="translate(249.875,-88.875)" style="animation: 12s linear infinite both Ellipse-3_o;">
+                <path id="Ellipse-Path-1-3" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-3_do;"/>
+            </g>
+            <g id="Ellipse-4" opacity="1" transform="translate(486.875,-46.875)" style="animation: 12s linear infinite both Ellipse-4_o;">
+                <path id="Ellipse-Path-1-4" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-4_do;"/>
+            </g>
+            <g id="Ellipse-5" opacity="1" transform="translate(572.875,-45.875)" style="animation: 12s linear infinite both Ellipse-5_o;">
+                <path id="Ellipse-Path-1-5" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-5_do;"/>
+            </g>
+            <g id="Ellipse-6" opacity="1" transform="translate(627.875,-89.875)" style="animation: 12s linear infinite both Ellipse-6_o;">
+                <path id="Ellipse-Path-1-6" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-6_do;"/>
+            </g>
+            <g id="Ellipse-7" opacity="1" transform="translate(513.875,101.125)" style="animation: 12s linear infinite both Ellipse-7_o;">
+                <path id="Ellipse-Path-1-7" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-7_do;"/>
+            </g>
+            <g id="Ellipse-8" opacity="1" transform="translate(602.875,186.125)" style="animation: 12s linear infinite both Ellipse-8_o;">
+                <path id="Ellipse-Path-1-8" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-8_do;"/>
+            </g>
+            <g id="Ellipse-9" opacity="1" transform="translate(626.875,77.125)" style="animation: 12s linear infinite both Ellipse-9_o;">
+                <path id="Ellipse-Path-1-9" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-9_do;"/>
+            </g>
+            <g id="Ellipse-10" opacity="1" transform="translate(741.875,43.125)" style="animation: 12s linear infinite both Ellipse-10_o;">
+                <path id="Ellipse-Path-1-10" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-10_do;"/>
+            </g>
+            <g id="Ellipse-11" opacity="1" transform="translate(242.875,-251.875)" style="animation: 12s linear infinite both Ellipse-11_o;">
+                <path id="Ellipse-Path-1-11" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-11_do;"/>
+            </g>
+            <g id="Ellipse-12" opacity="1" transform="translate(381.875,-211.875)" style="animation: 12s linear infinite both Ellipse-12_o;">
+                <path id="Ellipse-Path-1-12" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-12_do;"/>
+            </g>
+            <g id="Ellipse-13" opacity="1" transform="translate(605.875,-173.875)" style="animation: 12s linear infinite both Ellipse-13_o;">
+                <path id="Ellipse-Path-1-13" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-13_do;"/>
+            </g>
+            <g id="Ellipse-14" opacity="1" transform="translate(598.875,-336.875)" style="animation: 12s linear infinite both Ellipse-14_o;">
+                <path id="Ellipse-Path-1-14" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-14_do;"/>
+            </g>
+            <g id="Ellipse-15" opacity="1" transform="translate(298.875,-389.875)" style="animation: 12s linear infinite both Ellipse-15_o;">
+                <path id="Ellipse-Path-1-15" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-15_do;"/>
+            </g>
+            <g id="Ellipse-16" opacity="1" transform="translate(440.875,-543.875)" style="animation: 12s linear infinite both Ellipse-16_o;">
+                <path id="Ellipse-Path-1-16" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-16_do;"/>
+            </g>
+            <g id="Ellipse-17" opacity="1" transform="translate(149.875,-185.875)" style="animation: 12s linear infinite both Ellipse-17_o;">
+                <path id="Ellipse-Path-1-17" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-17_do;"/>
+            </g>
+            <g id="Ellipse-18" opacity="1" transform="translate(43.875,-184.875)" style="animation: 12s linear infinite both Ellipse-18_o;">
+                <path id="Ellipse-Path-1-18" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-18_do;"/>
+            </g>
+            <g id="Ellipse-19" opacity="1" transform="translate(90.875,-281.875)" style="animation: 12s linear infinite both Ellipse-19_o;">
+                <path id="Ellipse-Path-1-19" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-19_do;"/>
+            </g>
+            <g id="Ellipse-20" opacity="1" transform="translate(84.875,-412.875)" style="animation: 12s linear infinite both Ellipse-20_o;">
+                <path id="Ellipse-Path-1-20" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-20_do;"/>
+            </g>
+            <g id="Ellipse-21" opacity="1" transform="translate(169.875,-466.875)" style="animation: 12s linear infinite both Ellipse-21_o;">
+                <path id="Ellipse-Path-1-21" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-21_do;"/>
+            </g>
+            <g id="Ellipse-22" opacity="1" transform="translate(69.875,-642.875)" style="animation: 12s linear infinite both Ellipse-22_o;">
+                <path id="Ellipse-Path-1-22" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-22_do;"/>
+            </g>
+            <g id="Ellipse-23" opacity="1" transform="translate(181.875,-629.875)" style="animation: 12s linear infinite both Ellipse-23_o;">
+                <path id="Ellipse-Path-1-23" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-23_do;"/>
+            </g>
+            <g id="Ellipse-24" opacity="1" transform="translate(261.875,-631.875)" style="animation: 12s linear infinite both Ellipse-24_o;">
+                <path id="Ellipse-Path-1-24" fill="none" d="M0,-13.125C7.24874,-13.125,13.125,-7.24874,13.125,0C13.125,7.24874,7.24874,13.125,0,13.125C-7.24874,13.125,-13.125,7.24874,-13.125,0C-13.125,-7.24874,-7.24874,-13.125,0,-13.125Z" stroke="#337ae2" stroke-opacity="1" stroke-width="12" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="100 100" stroke-dashoffset="-100" style="animation: 12s linear infinite both Ellipse-Path-1-24_do;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-103" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-103_t;"/>
+    <g id="Null-1-104" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-104_t;">
+        <g id="FGW-Outlines---F" visibility="hidden" transform="translate(-74.562,786.078) scale(0.73,0.73) translate(107.887,46.922)" style="animation: 12s linear infinite forwards FGW-Outlines---F_v;">
+            <g id="F" opacity="0" style="animation: 12s linear infinite both F_o;">
+                <path id="F-2" fill="#36c63d" d="M-80.172,-54.785C-80.172,-54.785,-116.652,-54.785,-116.652,-54.785C-116.652,-54.785,-116.652,-76.377,-116.652,-76.377C-116.652,-76.377,-76.498,-76.377,-76.498,-76.377C-76.498,-76.377,-76.498,-93.844,-76.498,-93.844C-76.498,-93.844,-139.275,-93.844,-139.275,-93.844C-139.275,-93.844,-139.275,0,-139.275,0C-139.275,0,-116.652,0,-116.652,0C-116.652,0,-116.652,-37.383,-116.652,-37.383C-116.652,-37.383,-80.172,-37.383,-80.172,-37.383C-80.172,-37.383,-80.172,-54.785,-80.172,-54.785Z" fill-opacity="1" fill-rule="nonzero"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-105" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-105_t;">
+        <g id="FGW-Outlines---G" visibility="hidden" transform="translate(11.669,786.046) scale(0.73,0.73) translate(21.656,46.954)" style="animation: 12s linear infinite forwards FGW-Outlines---G_v;">
+            <g id="G" opacity="0" style="animation: 12s linear infinite both G_o;">
+                <path id="G-2" fill="#36c63d" d="M17.66,-50.145C17.66,-50.145,-20.689,-50.145,-20.689,-50.145C-20.689,-50.145,-20.689,-34.611,-20.689,-34.611C-20.689,-34.611,-4.963,-34.611,-4.963,-34.611C-4.963,-34.611,-4.963,-20.045,-4.963,-20.045C-7.842,-17.424,-12.225,-16.113,-18.111,-16.113C-24.986,-16.113,-30.025,-18.466,-33.226,-23.171C-36.428,-27.876,-38.027,-34.911,-38.027,-44.279C-38.027,-44.279,-38.027,-49.951,-38.027,-49.951C-37.985,-58.888,-36.416,-65.763,-33.322,-70.576C-30.228,-75.388,-25.846,-77.795,-20.174,-77.795C-15.448,-77.795,-11.795,-76.677,-9.217,-74.443C-6.639,-72.208,-4.962,-68.471,-4.189,-63.229C-4.189,-63.229,17.596,-63.229,17.596,-63.229C16.521,-73.842,12.75,-81.823,6.284,-87.173C-0.183,-92.523,-9.26,-95.197,-20.947,-95.197C-28.939,-95.197,-35.976,-93.338,-42.056,-89.622C-48.137,-85.905,-52.809,-80.598,-56.074,-73.702C-59.34,-66.806,-60.973,-58.738,-60.973,-49.5C-60.973,-49.5,-60.908,-41.379,-60.908,-41.379C-60.392,-27.973,-56.461,-17.509,-49.113,-9.99C-41.765,-2.47,-31.947,1.289,-19.658,1.289C-11.666,1.289,-4.318,0.107,2.385,-2.256C9.088,-4.619,14.18,-7.735,17.66,-11.602C17.66,-11.602,17.66,-50.145,17.66,-50.145Z" fill-opacity="1" fill-rule="nonzero"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-1-106" transform="translate(1000,947) scale(0.95,0.95)" style="animation: 12s linear infinite both Null-1-106_t;">
+        <g id="FGW-Outlines---W" visibility="hidden" transform="translate(122.134,786.078) scale(0.73,0.73) translate(-88.809,46.922)" style="animation: 12s linear infinite forwards FGW-Outlines---W_v;">
+            <g id="W" opacity="0" style="animation: 12s linear infinite both W_o;">
+                <path id="W-2" fill="#36c63d" d="M98.348,-93.844C98.348,-93.844,79.141,-93.844,79.141,-93.844C79.141,-93.844,66.25,-34.998,66.25,-34.998C66.25,-34.998,55.486,-93.844,55.486,-93.844C55.486,-93.844,32.992,-93.844,32.992,-93.844C32.992,-93.844,52.973,0,52.973,0C52.973,0,76.369,0,76.369,0C76.369,0,88.68,-53.496,88.68,-53.496C88.68,-53.496,101.248,0,101.248,0C101.248,0,124.709,0,124.709,0C124.709,0,144.625,-93.844,144.625,-93.844C144.625,-93.844,122.195,-93.844,122.195,-93.844C122.195,-93.844,111.432,-34.998,111.432,-34.998C111.432,-34.998,98.348,-93.844,98.348,-93.844Z" fill-opacity="1" fill-rule="nonzero"/>
+            </g>
+        </g>
+    </g>
+    <g id="CIRCLE" transform="translate(1000,1000) translate(-184,-32)">
+        <g id="Ellipse-1-2" opacity="1" transform="translate(184,32)">
+            <path id="Ellipse-Path-1-25" fill="none" d="M0,-815.5C450.388,-815.5,815.5,-450.388,815.5,0C815.5,450.388,450.388,815.5,0,815.5C-450.388,815.5,-815.5,450.388,-815.5,0C-815.5,-450.388,-450.388,-815.5,0,-815.5Z" stroke="#36c63d" stroke-opacity="1" stroke-width="2" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter"/>
+        </g>
+    </g>
+</svg>
