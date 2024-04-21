@@ -42,7 +42,7 @@ const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
   const [currentTab, setCurrentTab] = useState(tabEnum.chat);
 
   //my state
-  const [generatedContent, setGeneratedContent] = useState("");
+  const [, setGeneratedContent] = useState("");
   const [selectedTypeOfQuestions, setSelectedTypeOfQuestions] =
     useState<string>("");
   const [selectedMathematicsDifficulty, setSelectedMathematicsDifficulty] =
@@ -51,23 +51,23 @@ const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
     useState<string>("");
   const [selectedCalculator, setSelectedCalculator] = useState<string>("");
   const [selectedGenerationOfFlashcards, setSelectedGenerationOfFlashcards] =
-    useState<number>(0);
+    useState<string>("");
     const [result, setResults] = useState<string[][]>([]);
     const [selectdifficulty , setSelectDifficulty] = useState<string>("")
     const [currentIndex, setCurrentIndex] = useState(0);
 
-    const commonFeatures = [
-      [
-        "Strict Adherence to the Learning Objectives outlined in Exam Study Material",
-        "No Mixing of Content between Different Exams",
-        "Dedicated Content and Question Sets for Each Exam",
-      ],
-      [
-        "non strich Adherence to the Learning Objectives outlined in Exam Study Material",
-        "No Mixing of Content between Different Exams",
-        "Data Content and Question Sets for Each Exam",
-      ],
-    ];
+    // const commonFeatures = [
+    //   [
+    //     "Strict Adherence to the Learning Objectives outlined in Exam Study Material",
+    //     "No Mixing of Content between Different Exams",
+    //     "Dedicated Content and Question Sets for Each Exam",
+    //   ],
+    //   [
+    //     "non strich Adherence to the Learning Objectives outlined in Exam Study Material",
+    //     "No Mixing of Content between Different Exams",
+    //     "Data Content and Question Sets for Each Exam",
+    //   ],
+    // ];
 
     const [firstFeaturesDisplayed, setFirstFeaturesDisplayed] = useState(false);
 
@@ -120,6 +120,7 @@ const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
 
     // Call the API to send the generated data to the backend
     sendGeneratedDataToBackend(data);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [
     chapter,
     subChapter,
@@ -135,7 +136,7 @@ const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
   // Function to send generated data to backend API
   const sendGeneratedDataToBackend = (data) => {
     // Make API call to send data to backend
-    fetch("http://127.0.0.1:5000", {
+    fetch("http://www.FGWPro.swiftintellect.com", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
