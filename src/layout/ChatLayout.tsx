@@ -67,17 +67,17 @@ function ChatLayout({
     reset();
     const event = new Event("chatBoxHistoryUpdated");
     window.dispatchEvent(event);
+    if (chatType==="basic"){
 
-    fetch("http://127.0.0.1:5001", {
+    
+    fetch("http://www.FGWapp.swiftintellect.com", {
       headers: {
         "Content-Type": "application/json",
       },
       method: "POST",
       body: JSON.stringify({
         question: question,
-        chapter: chapter,
-        subChapter: subChapter,
-        topic: topic,
+        
       }),
       redirect: "follow",
     })
@@ -102,7 +102,45 @@ function ChatLayout({
       .catch((err) => {
         console.log("Error", err);
         toast.error("Failed to send data to backend");
-      });
+      });}
+      if (chatType==="advance"){
+
+    
+        fetch("http://www.FGWadvanced.swiftintellect.com", {
+          headers: {
+            "Content-Type": "application/json",
+          },
+          method: "POST",
+          body: JSON.stringify({
+            question: question,
+            chapter: chapter,
+            subChapter: subChapter,
+            topic: topic,
+          }),
+          redirect: "follow",
+        })
+          .then((response) => {
+            if (response.status === 200) {
+              return response.json();
+            }
+          })
+          .then((result) => {
+            console.log(result, "result");
+            toast.success("Data sent successfully to backend");
+            setChatBoxHistory((prevState) => [
+              ...prevState,
+              {
+                result: result.result,
+                role: "reciever",
+              },
+            ]);
+            reset();
+            window.dispatchEvent(event);
+          })
+          .catch((err) => {
+            console.log("Error", err);
+            toast.error("Failed to send data to backend");
+          });}
   };
 
   useEffect(() => {

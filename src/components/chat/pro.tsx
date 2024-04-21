@@ -136,7 +136,7 @@ const [chatBoxHistory, setChatBoxHistory] = useState(storedChatBoxHistory);
   // Function to send generated data to backend API
   const sendGeneratedDataToBackend = (data) => {
     // Make API call to send data to backend
-    fetch("http://127.0.0.1:5000", {
+    fetch("http://www.FGWPro.swiftintellect.com", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
