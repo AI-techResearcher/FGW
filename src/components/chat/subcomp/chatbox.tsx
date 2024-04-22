@@ -7,7 +7,7 @@ export default function Chatbox({
   ans = false,
   qna = false,
 }: {
-  children: string
+  children: React.ReactNode
   ans?: boolean
   qna?: boolean
 }) {

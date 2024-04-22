@@ -6,7 +6,7 @@ import Hammer from 'hammerjs'
 import { PiHandSwipeRightBold, PiHandSwipeLeftBold } from 'react-icons/pi'
 import gsap from 'gsap'
 import { enforceRange } from '@/lib/hooks/useEnforceRange'
-import { dataS } from '@/lib/data/dummyData'
+
 
 
 
@@ -18,7 +18,7 @@ export default function Chatbox({
 }: {
   ans?: boolean
   qna?: boolean
-  data?: string[]
+  data?: string[][]
 }) {
   // dataS is dummy data
   const [currentSlide, setCurrentSlide] = useState<number>(0)
