@@ -90,7 +90,7 @@ const canGoRight = currentSlide < data.length -1;
 const canGoLeft = currentSlide > 0;
   return (
     <div
-      className={`rounded-md px-2 py-3 w-fit text-sm max-w-xs cursor-grab ${
+      className={`rounded-md px-2 py-3 w-fit text-sm max-w-xs cursor-grab animate-typing ${
         ans ? 'self-start' : 'self-end'
       }
       ${
@@ -144,7 +144,7 @@ const canGoLeft = currentSlide > 0;
                       const isCurrent = i === currentSlide
                       return (
                         <div
-                          className={`w-2 h-2 rounded-full ${
+                          className={`w-2 h-2 rounded-full animate-typing ${
                             isCurrent ? 'bg-primary' : 'bg-primary/40'
                           }`}
                         />

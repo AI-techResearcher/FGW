@@ -67,80 +67,77 @@ function ChatLayout({
     reset();
     const event = new Event("chatBoxHistoryUpdated");
     window.dispatchEvent(event);
-    if (chatType==="basic"){
-
-    
-    fetch("http://www.FGWapp.swiftintellect.com", {
-      headers: {
-        "Content-Type": "application/json",
-      },
-      method: "POST",
-      body: JSON.stringify({
-        question: question,
-        
-      }),
-      redirect: "follow",
-    })
-      .then((response) => {
-        if (response.status === 200) {
-          return response.json();
-        }
+    if (chatType === "basic") {
+      fetch("http://www.FGWapp.swiftintellect.com", {
+        headers: {
+          "Content-Type": "application/json",
+        },
+        method: "POST",
+        body: JSON.stringify({
+          question: question,
+        }),
+        redirect: "follow",
       })
-      .then((result) => {
-        console.log(result, "result");
-        toast.success("Data sent successfully to backend");
-        setChatBoxHistory((prevState) => [
-          ...prevState,
-          {
-            result: result.result,
-            role: "reciever",
-          },
-        ]);
-        reset();
-        window.dispatchEvent(event);
-      })
-      .catch((err) => {
-        console.log("Error", err);
-        toast.error("Failed to send data to backend");
-      });}
-      if (chatType==="advance"){
-
-    
-        fetch("http://www.FGWadvanced.swiftintellect.com", {
-          headers: {
-            "Content-Type": "application/json",
-          },
-          method: "POST",
-          body: JSON.stringify({
-            question: question,
-            chapter: chapter,
-            subChapter: subChapter,
-            topic: topic,
-          }),
-          redirect: "follow",
+        .then((response) => {
+          if (response.status === 200) {
+            return response.json();
+          }
         })
-          .then((response) => {
-            if (response.status === 200) {
-              return response.json();
-            }
-          })
-          .then((result) => {
-            console.log(result, "result");
-            toast.success("Data sent successfully to backend");
-            setChatBoxHistory((prevState) => [
-              ...prevState,
-              {
-                result: result.result,
-                role: "reciever",
-              },
-            ]);
-            reset();
-            window.dispatchEvent(event);
-          })
-          .catch((err) => {
-            console.log("Error", err);
-            toast.error("Failed to send data to backend");
-          });}
+        .then((result) => {
+          console.log(result, "result");
+          toast.success("Data sent successfully to backend");
+          setChatBoxHistory((prevState) => [
+            ...prevState,
+            {
+              result: result.result,
+              role: "reciever",
+            },
+          ]);
+          reset();
+          window.dispatchEvent(event);
+        })
+        .catch((err) => {
+          console.log("Error", err);
+          toast.error("Failed to send data to backend");
+        });
+    }
+    if (chatType === "advance") {
+      fetch("http://www.FGWadvanced.swiftintellect.com", {
+        headers: {
+          "Content-Type": "application/json",
+        },
+        method: "POST",
+        body: JSON.stringify({
+          question: question,
+          chapter: chapter,
+          subChapter: subChapter,
+          topic: topic,
+        }),
+        redirect: "follow",
+      })
+        .then((response) => {
+          if (response.status === 200) {
+            return response.json();
+          }
+        })
+        .then((result) => {
+          console.log(result, "result");
+          toast.success("Data sent successfully to backend");
+          setChatBoxHistory((prevState) => [
+            ...prevState,
+            {
+              result: result.result,
+              role: "reciever",
+            },
+          ]);
+          reset();
+          window.dispatchEvent(event);
+        })
+        .catch((err) => {
+          console.log("Error", err);
+          toast.error("Failed to send data to backend");
+        });
+    }
   };
 
   useEffect(() => {
@@ -164,24 +161,33 @@ function ChatLayout({
   }, []);
   const isSubscribed = subscription === chatType;
   useEffect(() => {
-    if(!isSubscribed) {
+    if (!isSubscribed) {
       axios
-      .post("http://localhost:3002/create-payment-intent", { curr: "usd", amount: chatType === "basic" ? 29.99 : (chatType === "advance" ? 39.99 : 74.99) })
-      .then((result) => {
-        setClientSecret(result?.data?.clientSecret);
-      });
-
+        .post("http://localhost:3002/create-payment-intent", {
+          curr: "usd",
+          amount:
+            chatType === "basic"
+              ? 29.99
+              : chatType === "advance"
+              ? 39.99
+              : 74.99,
+        })
+        .then((result) => {
+          setClientSecret(result?.data?.clientSecret);
+        });
     }
-  }, );
+  }, []);
 
   return (
     <>
       {!isSubscribed && clientSecret && (
-          <Elements stripe={stripePromise} options={{ clientSecret }}>
-            <PaymentForm chatType={chatType}/>
-          </Elements>
+        <Elements stripe={stripePromise} options={{ clientSecret }}>
+          <PaymentForm chatType={chatType} />
+        </Elements>
       )}
-      <div className={`p-3 ${!isSubscribed ? `blur-sm pointer-events-none` : ``}`}>
+      <div
+        className={`p-3 ${!isSubscribed ? `blur-sm pointer-events-none` : ``}`}
+      >
         <ToastContainer />
         <div className="flex gap-3 sm:flex-row flex-col">
           {/* History component */}
@@ -193,7 +199,7 @@ function ChatLayout({
           </div>
           {/* Main chat content */}
           <div className="w-8/12 card">
-            <div className="flex flex-col h-[85vh]">
+            <div className="flex flex-col h-[85vh] animate-typing">
               {/* Children components */}
               {children}
 
@@ -248,16 +254,17 @@ function ChatLayout({
                   onSubmit={onSubmit}
                   className="flex gap-3 py-3 items-center w-full group/main"
                 >
-                  <div className="flex gap-3 py-3 items-center w-full group/main">
+                  <div className="flex gap-3 py-3 items-end w-full group/main">
                     <Button variant={"ghost"} size="icon">
                       {/* Microphone icon */}
                       <MdMicNone className="w-6 h-auto text-black dark:text-gray-300" />
                     </Button>
                     {/* Input field */}
                     <Input
+                      type="textarea"
                       register={register}
                       name="question"
-                      className="border-gray-400 bg-green-50/20"
+                      className="border-gray-400 bg-green-50/20 h-20"
                     />
                     {/* Button to send the message */}
                     <Button className="flex gap-2 items-center group/btn">
